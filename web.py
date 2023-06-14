@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 import joblib
-import model2
 
 
 # Mengimpor model dan text dari file yang telah diekspor sebelumnya
